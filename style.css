@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+h1 {
+  color:blue;
+}
+
+h2 {
+  color: #333333;
+}
+  
+nav {
+  margin: 25px; /*contenitore*/
+}
+
+nav a { /*collegamenti dentro*/
+  margin:15px;
+  color: blue;
+}
+
+img{
+  width: 320px;
+  height: 220px;
+  object-fit: cover;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+  p{
+    font-size:18px;
+  }
+  
